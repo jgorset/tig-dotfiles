@@ -1,6 +1,6 @@
 # Tig dotfiles
 
-![Screenshot](https://github.com/jgorset/tig-dotfiles/blob/master/docs/images/screenshot.gif)
+![Screenshot](https://raw.githubusercontent.com/jgorset/tig-dotfiles/master/docs/images/screenshot.gif)
 
 These are my tig dotfiles. They're pretty great.
 
