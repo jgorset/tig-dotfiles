@@ -11,5 +11,5 @@ Download and copy everything in `home` to your home directory, or use
 yourself the trouble:
 
     $ homesick clone jgorset/tig-dotfiles
-    $ homesick symlink jgorset/tig-dotfiles
+    $ homesick symlink tig-dotfiles
 
